@@ -11,9 +11,8 @@
 # 1(b) What is the address location of the last element (element 7) of the array, X.
 # 1001000c
 # 2.   What are the values at location 'SUM' as the program executes?
-#       hexidecimal fffffffe = -2 in signed 2s complement, 
-#       hexidecimal fffffffa = -6 in signed 2s complement, 
-#       then 1
+#       The value at location 'SUM' is unknown until the running sum in $s1 is stored in SUM
+#       which ultimately is 1.
 # 3.   Traverse the program in single-step mode. Write down the intermediate 
 #      values stored in register $s1 as the program progresses.
 #       hexidecimal fffffffe = -2 in signed 2s complement, 
