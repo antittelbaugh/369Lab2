@@ -1,3 +1,4 @@
+#Group 3 - Julia Otto completed 100% of this exercise
 .data	
 list1:		.word		3, 9, 1, 2, 6, 3, -4, -7, -8, 4, -2,  8, 7, 6
 .text 		# list1 is an array of integers storing the given sequence of values	 
